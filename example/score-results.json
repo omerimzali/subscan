@@ -1,0 +1,757 @@
+[
+  {
+    "domain": "skyline.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 3.5,
+    "tags": [
+      "GitHub-Pages",
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "vscode-auth.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 3.5,
+    "tags": [
+      "GitHub-Pages",
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "f.cloud.github.com",
+    "status": 403,
+    "content_length": -1,
+    "cname": "r2.shared.global.fastly.net",
+    "cloud_provider": "Fastly",
+    "score": 3.2,
+    "tags": [
+      "Fastly",
+      "403"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "desktop.github.com",
+    "status": 301,
+    "content_length": 162,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 3,
+    "tags": [
+      "GitHub-Pages",
+      "301",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "vpn-ca.iad.github.com",
+    "status": 404,
+    "content_length": -1,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 2.7,
+    "tags": [
+      "GitHub-Pages",
+      "404"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "pages-auth.github.com",
+    "status": 404,
+    "content_length": -1,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 2.7,
+    "tags": [
+      "GitHub-Pages",
+      "404"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "brandguide.github.com",
+    "status": 404,
+    "content_length": -1,
+    "cname": "github.github.io",
+    "cloud_provider": "GitHub-Pages",
+    "score": 2.7,
+    "tags": [
+      "GitHub-Pages",
+      "404"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.workspaces-ppe.github.com",
+    "status": 404,
+    "content_length": 21,
+    "cname": "vsapi-cluster-ppe-rel-global-perf-tm.trafficmanager.net",
+    "cloud_provider": "Azure-Traffic",
+    "score": 2.7,
+    "tags": [
+      "Azure-Traffic",
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.workspaces-dev.github.com",
+    "status": 404,
+    "content_length": 21,
+    "cname": "vsapi-cluster-dev-ci-global-perf-tm.trafficmanager.net",
+    "cloud_provider": "Azure-Traffic",
+    "score": 2.7,
+    "tags": [
+      "Azure-Traffic",
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examregistration-uat.github.com",
+    "status": 200,
+    "content_length": 479,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examadmin.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examadmin-uat.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examregistration-uat-api.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examregistration.github.com",
+    "status": 200,
+    "content_length": 479,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "examregistration-api.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "waws-prod-dm1-285-6514.centralus.cloudapp.azure.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "graphql.github.com",
+    "status": 200,
+    "content_length": 2389,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200",
+      "2KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "classroom.github.com",
+    "status": 200,
+    "content_length": 19217,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200",
+      "18KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "api.security.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "edu.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "slack.github.com",
+    "status": 200,
+    "content_length": 16095,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200",
+      "15KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "github.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "docs-internal.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "glb-c0e95bd587389a.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "glb-c0e95bd587389a.github.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "emails.github.com",
+    "status": 200,
+    "content_length": -1,
+    "cname": "mkto-sj180011.com",
+    "score": 2.5,
+    "tags": [
+      "200"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "nonprofits.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "visualstudio.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "raw.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "raw.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "help.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "support.enterprise.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "containers.pkg.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "pkg.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "maintainers.github.com",
+    "status": 308,
+    "content_length": -1,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2,
+    "tags": [
+      "308",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "education.github.com",
+    "status": 302,
+    "content_length": -1,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "res.communication.github.com",
+    "status": 302,
+    "content_length": 235,
+    "cname": "mscom-mkt-prod22-lb.campaign.adobe.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "m.communication.github.com",
+    "status": 302,
+    "content_length": 233,
+    "cname": "mscom-mkt-prod22-lb.campaign.adobe.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "t.communication.github.com",
+    "status": 302,
+    "content_length": 233,
+    "cname": "mscom-mkt-prod22-lb.campaign.adobe.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "status.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "docs.github.com",
+    "status": 302,
+    "content_length": 25,
+    "cname": "docs.github.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "enterprise.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "maven.pkg.github.com",
+    "status": 301,
+    "content_length": 71,
+    "cname": "pkg.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.pkg.github.com",
+    "status": 301,
+    "content_length": 71,
+    "cname": "pkg.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "community.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "garage.github.com",
+    "status": 302,
+    "content_length": -1,
+    "cname": "garage.github.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "gist.github.com",
+    "status": 302,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "302",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "render.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "www.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "fi.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "shop.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "pkg.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "pkg.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "embed.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "styleguide.github.com",
+    "status": 301,
+    "content_length": 0,
+    "cname": "redirect.github.com",
+    "score": 2,
+    "tags": [
+      "301",
+      "REDIRECT"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "atom-installer.github.com",
+    "status": 503,
+    "content_length": 507,
+    "cname": "atom-installer.github.com",
+    "score": 1.8,
+    "tags": [
+      "503",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "ws.support.github.com",
+    "status": 400,
+    "content_length": -1,
+    "cname": "ws.support.github.com",
+    "score": 1.7,
+    "tags": [
+      "400"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.registry.github.com",
+    "status": 404,
+    "content_length": -1,
+    "cname": "pkg.github.com",
+    "score": 1.7,
+    "tags": [
+      "404"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "lb-140-82-112-6-iad.github.com",
+    "status": 400,
+    "content_length": -1,
+    "cname": "lb-140-82-112-6-iad.github.com",
+    "score": 1.7,
+    "tags": [
+      "400"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "mailing.github.com",
+    "status": 404,
+    "content_length": 162,
+    "cname": "mailing.github.com",
+    "score": 1.7,
+    "tags": [
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "central.github.com",
+    "status": 401,
+    "content_length": 12,
+    "cname": "glb-db52c2cf8be544.github.com",
+    "score": 1.7,
+    "tags": [
+      "401",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.proxima-review-lab.github.com",
+    "status": 400,
+    "content_length": -1,
+    "score": 1.7,
+    "tags": [
+      "400"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.workspaces.github.com",
+    "status": 404,
+    "content_length": 21,
+    "cname": "online.visualstudio.com",
+    "score": 1.7,
+    "tags": [
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.review-lab.github.com",
+    "status": 404,
+    "content_length": 21,
+    "score": 1.7,
+    "tags": [
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "*.octocaptcha.review-lab.github.com",
+    "status": 404,
+    "content_length": 21,
+    "score": 1.7,
+    "tags": [
+      "404",
+      "0KB"
+    ],
+    "is_tls": true
+  },
+  {
+    "domain": "jobs.github.com",
+    "status": 0,
+    "content_length": 0,
+    "cname": "jobs.github.com",
+    "score": 1,
+    "tags": [
+      "NO-HTTP"
+    ],
+    "is_tls": false
+  },
+  {
+    "domain": "smtp.github.com",
+    "status": 0,
+    "content_length": 0,
+    "cname": "smtp.github.com",
+    "score": 1,
+    "tags": [
+      "NO-HTTP"
+    ],
+    "is_tls": false
+  },
+  {
+    "domain": "communication.github.com",
+    "status": 0,
+    "content_length": 0,
+    "cname": "communication.github.com.cname.campaign.adobe.com",
+    "score": 1,
+    "tags": [
+      "NO-HTTP"
+    ],
+    "is_tls": false
+  }
+]

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscan Probe Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #f4f4f4;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #444;
+        }
+        .stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .stat-box {
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px 15px;
+            flex: 1;
+            min-width: 150px;
+            text-align: center;
+        }
+        .stat-box.warning {
+            background-color: #fff3cd;
+            border-color: #ffecb5;
+        }
+        .stat-box h3 {
+            margin: 0;
+            font-size: 14px;
+            font-weight: normal;
+        }
+        .stat-box p {
+            margin: 5px 0 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .has-issues {
+            background-color: #fff8e1;
+        }
+        .has-issues td {
+            border-left: 3px solid #ffc107;
+        }
+        .tag {
+            display: inline-block;
+            background-color: #e9e9e9;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            margin-right: 5px;
+            margin-bottom: 3px;
+        }
+        .tag.warning {
+            background-color: #ffd7d7;
+        }
+        .vuln-list {
+            margin: 0;
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Subscan Probe Results</h1>
+        <p>Generated on 2025-05-17 18:09:37 by Subscan</p>
+    </header>
+
+    <div class="stats">
+        <div class="stat-box">
+            <h3>Total Domains</h3>
+            <p>3</p>
+        </div>
+        <div class="stat-box ">
+            <h3>Takeover Candidates</h3>
+            <p>0</p>
+        </div>
+        <div class="stat-box ">
+            <h3>S3 Bucket Issues</h3>
+            <p>0</p>
+        </div>
+        <div class="stat-box warning">
+            <h3>Exposed Files</h3>
+            <p>3</p>
+        </div>
+        <div class="stat-box ">
+            <h3>Open Redirects</h3>
+            <p>0</p>
+        </div>
+    </div>
+
+    <h2>Vulnerability Details</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Domain</th>
+                <th>Issues</th>
+                <th>Details</th>
+                <th>Tags</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+                <tr class="has-issues">
+                    <td>httpbin.org</td>
+                    <td>
+                        <ul class="vuln-list">
+                            
+                                <li>Exposed Robots.txt File</li>
+                            
+                        </ul>
+                    </td>
+                    <td>
+                        
+                            <strong>CNAME:</strong> httpbin.org<br>
+                        
+                        
+                        
+                            <strong>Status:</strong> 200<br>
+                        
+                        
+                        
+                            <strong>Size:</strong> 9593 bytes<br>
+                        
+                        
+                        
+                        
+                        
+                            <strong>Exposed Files:</strong>
+                            <ul class="vuln-list">
+                                
+                                    <li>/robots.txt</li>
+                                
+                            </ul>
+                        
+                    </td>
+                    <td>
+                        
+                            <span class="tag ">EXPOSED-ROBOTS.TXT</span>
+                        
+                    </td>
+                </tr>
+            
+                <tr class="has-issues">
+                    <td>www.httpbin.org</td>
+                    <td>
+                        <ul class="vuln-list">
+                            
+                                <li>Exposed Robots.txt File</li>
+                            
+                        </ul>
+                    </td>
+                    <td>
+                        
+                            <strong>CNAME:</strong> www.httpbin.org<br>
+                        
+                        
+                        
+                            <strong>Status:</strong> 200<br>
+                        
+                        
+                        
+                            <strong>Size:</strong> 9593 bytes<br>
+                        
+                        
+                        
+                        
+                        
+                            <strong>Exposed Files:</strong>
+                            <ul class="vuln-list">
+                                
+                                    <li>/robots.txt</li>
+                                
+                            </ul>
+                        
+                    </td>
+                    <td>
+                        
+                            <span class="tag ">EXPOSED-ROBOTS.TXT</span>
+                        
+                    </td>
+                </tr>
+            
+                <tr class="has-issues">
+                    <td>eu.httpbin.org</td>
+                    <td>
+                        <ul class="vuln-list">
+                            
+                                <li>Exposed Robots.txt File</li>
+                            
+                        </ul>
+                    </td>
+                    <td>
+                        
+                            <strong>CNAME:</strong> eu.httpbin.org<br>
+                        
+                        
+                        
+                            <strong>Status:</strong> 200<br>
+                        
+                        
+                        
+                            <strong>Size:</strong> 9593 bytes<br>
+                        
+                        
+                        
+                        
+                        
+                            <strong>Exposed Files:</strong>
+                            <ul class="vuln-list">
+                                
+                                    <li>/robots.txt</li>
+                                
+                            </ul>
+                        
+                    </td>
+                    <td>
+                        
+                            <span class="tag ">EXPOSED-ROBOTS.TXT</span>
+                        
+                    </td>
+                </tr>
+            
+        </tbody>
+    </table>
+
+    <footer>
+        <p>Generated by Subscan on 2025-05-17 18:09:37</p>
+    </footer>
+</body>
+</html>

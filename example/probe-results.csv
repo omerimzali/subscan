@@ -1,0 +1,4 @@
+Domain,CNAME,HTTPStatus,ContentLength,IsTakeover,S3Public,S3Private,ExposedFiles,OpenRedirect,RedirectURL,Vulnerabilities,Tags
+httpbin.org,httpbin.org,200,9593,false,false,false,/robots.txt,false,,Exposed Robots.txt File,EXPOSED-ROBOTS.TXT
+www.httpbin.org,www.httpbin.org,200,9593,false,false,false,/robots.txt,false,,Exposed Robots.txt File,EXPOSED-ROBOTS.TXT
+eu.httpbin.org,eu.httpbin.org,200,9593,false,false,false,/robots.txt,false,,Exposed Robots.txt File,EXPOSED-ROBOTS.TXT

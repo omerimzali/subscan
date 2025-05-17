@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "httpbin.org",
+    "cname": "httpbin.org",
+    "status": 200,
+    "content_length": 9593,
+    "is_takeover": false,
+    "s3_public": false,
+    "s3_private": false,
+    "exposed_files": [
+      "/robots.txt"
+    ],
+    "open_redirect": false,
+    "vulnerabilities": [
+      "Exposed Robots.txt File"
+    ],
+    "tags": [
+      "EXPOSED-ROBOTS.TXT"
+    ]
+  }
+]
