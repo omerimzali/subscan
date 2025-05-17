@@ -1,6 +1,8 @@
 # Subscan
 
-![Subscan Logo](assets/images/subscan.png)
+<p align="center">
+  <img src="assets/images/subscan.png" alt="Subscan Logo">
+</p>
 
 ![Go](https://img.shields.io/badge/Go-1.21-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
